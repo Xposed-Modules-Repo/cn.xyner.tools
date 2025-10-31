@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Xposed Modules Repo
+    url: https://modules.lsposed.org/
+    about: 在 Xposed Modules Repo 上查看模块信息
+  - name: 提交 Issue 指南
+    url: https://github.com/Xposed-Modules-Repo/submission
+    about: 查看提交流程与规范
+
