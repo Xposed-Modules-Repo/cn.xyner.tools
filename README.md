@@ -7,11 +7,7 @@
 [![GitHub Downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/cn.xyner.tools/total?label=Downloads)](https://github.com/Xposed-Modules-Repo/cn.xyner.tools/releases)
 [![GitHub Latest Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/cn.xyner.tools)](https://github.com/Xposed-Modules-Repo/cn.xyner.tools/releases/latest)
 
-<!-- QQ群链接（如有需要，请替换为实际链接）
-[![QQ Group](https://img.shields.io/badge/Xyner用户交流群-群组-blue.svg?logo=qq)](QQ群链接) -->
 
-<!-- 下载地址（如有需要，请替换为实际地址）
-Xyner下载地址:https://your-download-url.com -->
 
 ---
 
@@ -131,4 +127,5 @@ Xyner下载地址:https://your-download-url.com -->
 ---
 
 ❤️ 如果你喜欢这个模块，欢迎 Star、分享或提出建议！
+
 
