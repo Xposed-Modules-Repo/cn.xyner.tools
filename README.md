@@ -87,8 +87,6 @@ Xyner下载地址:https://your-download-url.com -->
 * **群主头衔显示颜色**
 * **管理员头衔显示颜色**
 
-#### 🎯 其他功能
-* **隐藏顶部和底部Tab**：隐藏微信顶部和底部的Tab栏
 
 ---
 
@@ -276,5 +274,6 @@ Xyner下载地址:https://your-download-url.com -->
 ---
 
 ❤️ 如果你喜欢这个模块，欢迎 Star、分享或提出建议！
+
 
 
