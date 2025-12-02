@@ -26,6 +26,7 @@ Xyner下载地址:https://your-download-url.com -->
 * 快手（KuaiShou）
 * 小红书（XiaoHongShu）
 * 多邻国（DuoLingo）
+* 红果免费短剧（HongGuo）
 * 以及更多正在适配的 App 和功能（持续更新中）
 
 ---
@@ -290,6 +291,7 @@ Xyner下载地址:https://your-download-url.com -->
 ---
 
 ❤️ 如果你喜欢这个模块，欢迎 Star、分享或提出建议！
+
 
 
 
