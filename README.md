@@ -15,7 +15,7 @@ Xyner下载地址:https://your-download-url.com -->
 
 ---
 
-## ✅ 支持框架
+## ✅ 支持框架(其他框架基本都支持)
 
 [LSPosed](https://github.com/LSPosed/LSPosed) | [LSPatch](https://github.com/LSPosed/LSPatch)
 
