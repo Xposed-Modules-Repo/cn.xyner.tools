@@ -25,6 +25,7 @@ Xyner下载地址:https://your-download-url.com -->
 * 抖音（DouYin）
 * Soul（Soul）
 * 快手（KuaiShou）
+* 快手极速版（KuaiShouJiSuBan）
 * 皮皮虾（PiPiXia）
 * 小红书（XiaoHongShu）
 * 多邻国（DuoLingo）
