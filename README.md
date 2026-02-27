@@ -30,6 +30,8 @@ Xyner下载地址:https://your-download-url.com -->
 * 小红书（XiaoHongShu）
 * 多邻国（DuoLingo）
 * 红果免费短剧（HongGuo）
+* 七猫免费小说 (QiMao)
+* 番茄免费小说 (FanQie)
 * 以及更多正在适配的 App 和功能（持续更新中）
 
 ---
