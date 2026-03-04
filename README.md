@@ -14,7 +14,7 @@
 Xyner下载地址:https://your-download-url.com -->
 
 ---
-
+上帝之手使用教程:https://bbs.xyner.cn/forum-post/167.html/
 ## ✅ 支持框架(其他框架基本都支持)
 
 [LSPosed](https://github.com/LSPosed/LSPosed) | [LSPatch](https://github.com/LSPosed/LSPatch)
