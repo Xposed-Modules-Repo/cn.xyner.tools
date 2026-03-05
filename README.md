@@ -24,6 +24,7 @@ Xyner下载地址:https://your-download-url.com -->
 * 微信（WeChat）
 * 抖音（DouYin）
 * Soul（Soul）
+* TikTok（TikTok）
 * 快手（KuaiShou）
 * 快手极速版（KuaiShouJiSuBan）
 * 皮皮虾（PiPiXia）
